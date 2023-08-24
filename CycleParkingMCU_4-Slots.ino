@@ -7,7 +7,7 @@
 
 // Firebase configuration
 #define FIREBASE_HOST "cycle-parking-system-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "Rz08OAaI2g1WNoszbrHobCk7ueHqef32byun95T1"
+#define FIREBASE_AUTH "_YOUR_FIREBASE_API_KEY_HERE_"
 // Initialize Firebase
 FirebaseData firebaseData;
 FirebaseESP32 firebase;
